@@ -35,7 +35,7 @@ const Header = () => {
 
 
   return (
-    <header className="w-full sticky top-0 z-50">
+    <header className="w-full">
       <div className="h-16 flex items-center justify-between px-6 md:px-12 border-b">
         
         <img

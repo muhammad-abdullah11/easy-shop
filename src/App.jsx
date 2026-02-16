@@ -6,6 +6,8 @@ import AboutMe  from "./Components/Pages/AboutMe"
 import Blogs from "./Components/Pages/Blogs"
 import Contact from "./Components/Pages/Contact"
 import Products from './Components/Pages/Products'
+import Collections from './Components/Collections'
+import Product from "./Components/Product";
 
 import { BrowserRouter as Router , Routes,Route } from 'react-router-dom'
 
@@ -21,6 +23,9 @@ function App() {
           <Route path='/contact-us' element={<Contact/>}/>
           <Route path='/blogs' element={<Blogs/>}/>
           <Route path='/products' element={<Products/>}/>
+          <Route path='/collections' element={<Collections/>}/>
+          <Route path='/product/:slug' element={<Product/>}/>
+          
         </Routes>
       <Footer/>
     </Router>

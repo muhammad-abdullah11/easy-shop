@@ -1,0 +1,83 @@
+{
+  "previewVideo": "https://www.pexels.com/download/video/7621840/",
+  "DenimJeans": [
+    {
+      "id": "m001",
+      "name": "Baggy Fit Jeans",
+      "slug": "baggy-fit-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Skyway",
+      "price": 6990,
+      "currency": "PKR",
+      "sizes": [30, 32, 34, 36, 38],
+      "images": ["https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER.jpg?v=1766044311&width=493", "https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER._f7b0e441-0e29-4184-8ecd-9728c46a5627.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER_e2190211-c0aa-4369-b8bc-84c18e1ca9b8.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER..jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903_3_copy.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903_5_copy.jpg?v=1766044311&width=493"],
+      "description": "Relaxed baggy fit jeans crafted for everyday comfort and modern street style."
+    },
+    {
+      "id": "m002",
+      "name": "Slim Fit Denim Jeans",
+      "slug": "slim-fit-denim-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Dark Blue",
+      "price": 6490,
+      "currency": "PKR",
+      "sizes": [30, 32, 34, 36],
+      "images": ["/images/slim-1.jpg", "/images/slim-2.jpg"],
+      "description": "Slim fit denim jeans designed for a sharp silhouette with all-day comfort."
+    },
+    {
+      "id": "m003",
+      "name": "Straight Fit Classic Jeans",
+      "slug": "straight-fit-classic-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Indigo",
+      "price": 6790,
+      "currency": "PKR",
+      "sizes": [30, 32, 34, 36, 38],
+      "images": ["/images/straight-1.jpg", "/images/straight-2.jpg"],
+      "description": "Classic straight fit jeans with timeless appeal and durable fabric."
+    },
+    {
+      "id": "m004",
+      "name": "Relaxed Fit Cargo Jeans",
+      "slug": "relaxed-fit-cargo-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Charcoal",
+      "price": 7290,
+      "currency": "PKR",
+      "sizes": [30, 32, 34, 36],
+      "images": ["/images/cargo-1.jpg", "/images/cargo-2.jpg"],
+      "description": "Relaxed cargo-style jeans featuring utility pockets and a contemporary look."
+    },
+    {
+      "id": "m005",
+      "name": "Tapered Fit Stretch Jeans",
+      "slug": "tapered-fit-stretch-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black",
+      "price": 6990,
+      "currency": "PKR",
+      "sizes": [30, 32, 34, 36, 38],
+      "images": ["/images/tapered-1.jpg", "/images/tapered-2.jpg"],
+      "description": "Stretchable tapered fit jeans offering flexibility and a refined modern cut."
+    },
+    {
+      "id": "m006",
+      "name": "Vintage Washed Wide Leg Jeans",
+      "slug": "vintage-washed-wide-leg-jeans",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Vintage Blue",
+      "price": 7590,
+      "currency": "PKR",
+      "sizes": [32, 34, 36, 38],
+      "images": ["/images/wideleg-1.jpg", "/images/wideleg-2.jpg"],
+      "description": "Wide leg vintage washed jeans inspired by retro fashion with a relaxed vibe."
+    }
+  ]
+}
