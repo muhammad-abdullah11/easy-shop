@@ -1,5 +1,5 @@
 {
-  "previewVideo": "https://www.pexels.com/download/video/7621840/",
+  "previewVideo": "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?w=1920&q=80",
   "DenimJeans": [
     {
       "id": "m001",
@@ -10,8 +10,19 @@
       "color": "Skyway",
       "price": 6990,
       "currency": "PKR",
-      "sizes": [30, 32, 34, 36, 38],
-      "images": ["https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER.jpg?v=1766044311&width=493", "https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER._f7b0e441-0e29-4184-8ecd-9728c46a5627.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER_e2190211-c0aa-4369-b8bc-84c18e1ca9b8.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903LOWER..jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903_3_copy.jpg?v=1766044311&width=493","https://outfitters.com.pk/cdn/shop/files/F0743109903_5_copy.jpg?v=1766044311&width=493"],
+      "sizes": [
+        30,
+        32,
+        34,
+        36,
+        38
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&q=80",
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80",
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&q=80",
+        "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=800&q=80"
+      ],
       "description": "Relaxed baggy fit jeans crafted for everyday comfort and modern street style."
     },
     {
@@ -23,8 +34,16 @@
       "color": "Dark Blue",
       "price": 6490,
       "currency": "PKR",
-      "sizes": [30, 32, 34, 36],
-      "images": ["/images/slim-1.jpg", "/images/slim-2.jpg"],
+      "sizes": [
+        30,
+        32,
+        34,
+        36
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542272454315-7ad9f8f1f0b5?w=800&q=80",
+        "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&q=80"
+      ],
       "description": "Slim fit denim jeans designed for a sharp silhouette with all-day comfort."
     },
     {
@@ -36,8 +55,17 @@
       "color": "Indigo",
       "price": 6790,
       "currency": "PKR",
-      "sizes": [30, 32, 34, 36, 38],
-      "images": ["/images/straight-1.jpg", "/images/straight-2.jpg"],
+      "sizes": [
+        30,
+        32,
+        34,
+        36,
+        38
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=800&q=80",
+        "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=80"
+      ],
       "description": "Classic straight fit jeans with timeless appeal and durable fabric."
     },
     {
@@ -49,8 +77,16 @@
       "color": "Charcoal",
       "price": 7290,
       "currency": "PKR",
-      "sizes": [30, 32, 34, 36],
-      "images": ["/images/cargo-1.jpg", "/images/cargo-2.jpg"],
+      "sizes": [
+        30,
+        32,
+        34,
+        36
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1624378440070-5d2e8a8b0a9c?w=800&q=80",
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&q=80"
+      ],
       "description": "Relaxed cargo-style jeans featuring utility pockets and a contemporary look."
     },
     {
@@ -62,8 +98,17 @@
       "color": "Black",
       "price": 6990,
       "currency": "PKR",
-      "sizes": [30, 32, 34, 36, 38],
-      "images": ["/images/tapered-1.jpg", "/images/tapered-2.jpg"],
+      "sizes": [
+        30,
+        32,
+        34,
+        36,
+        38
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1555689502-c4b22d76c56f?w=800&q=80",
+        "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&q=80"
+      ],
       "description": "Stretchable tapered fit jeans offering flexibility and a refined modern cut."
     },
     {
@@ -75,9 +120,755 @@
       "color": "Vintage Blue",
       "price": 7590,
       "currency": "PKR",
-      "sizes": [32, 34, 36, 38],
-      "images": ["/images/wideleg-1.jpg", "/images/wideleg-2.jpg"],
+      "sizes": [
+        32,
+        34,
+        36,
+        38
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&q=80",
+        "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&q=80"
+      ],
       "description": "Wide leg vintage washed jeans inspired by retro fashion with a relaxed vibe."
     }
+  ],
+  "footwear": [
+    {
+      "id": "f001",
+      "name": "Multi-Piece Mesh Sneakers",
+      "slug": "multi-piece-mesh-sneakers",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black",
+      "price": 12990,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80"
+      ],
+      "description": "Black multi-piece mesh sneakers designed for comfort and style."
+    },
+    {
+      "id": "f002",
+      "name": "Multi-Piece Contrast Trainers",
+      "slug": "multi-piece-contrast-trainers",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black/White",
+      "price": 10990,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80",
+        "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800&q=80"
+      ],
+      "description": "Classic black and white trainers with multi-piece design for everyday wear."
+    },
+    {
+      "id": "f003",
+      "name": "Rubberized Clogs",
+      "slug": "rubberized-clogs",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Beige/Brown",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=800&q=80",
+        "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=800&q=80"
+      ],
+      "description": "Comfortable rubberized clogs suitable for casual and home wear."
+    },
+    {
+      "id": "f004",
+      "name": "Textured Rubber Slides",
+      "slug": "textured-rubber-slides",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black",
+      "price": 2490,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800&q=80",
+        "https://images.unsplash.com/photo-1614252368970-1a96ce3e6f0f?w=800&q=80"
+      ],
+      "description": "Simple black rubber slides with textured finish for everyday comfort."
+    },
+    {
+      "id": "f005",
+      "name": "Double Buckle Rubber Sandals",
+      "slug": "double-buckle-rubber-sandals",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Beige/Gray",
+      "price": 2490,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800&q=80",
+        "https://images.unsplash.com/photo-1562183241-b937e95585b6?w=800&q=80"
+      ],
+      "description": "Casual double buckle rubber sandals for relaxed summer wear."
+    },
+    {
+      "id": "f006",
+      "name": "Slip-On Casual Shoes",
+      "slug": "slip-on-casual-shoes",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "White",
+      "price": 2990,
+      "currency": "PKR",
+      "sizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80",
+        "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=800&q=80"
+      ],
+      "description": "White slip-on casual shoes, lightweight and easy to wear."
+    }
+  ],
+  "tshirts": [
+    {
+      "id": "t001",
+      "name": "Slogan Print T-Shirt",
+      "slug": "slogan-print-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "White",
+      "price": 3790,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80"
+      ],
+      "description": "Relaxed fit slogan print t-shirt crafted for everyday comfort."
+    },
+    {
+      "id": "t002",
+      "name": "Graphic T-Shirt",
+      "slug": "graphic-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black",
+      "price": 3490,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80",
+        "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=800&q=80"
+      ],
+      "description": "Modern graphic t-shirt with bold design elements."
+    },
+    {
+      "id": "t003",
+      "name": "Basic Crew Neck T-Shirt",
+      "slug": "basic-crew-neck-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Navy",
+      "price": 2990,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80",
+        "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80"
+      ],
+      "description": "Essential crew neck t-shirt in premium cotton."
+    },
+    {
+      "id": "t004",
+      "name": "Striped T-Shirt",
+      "slug": "striped-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Multi",
+      "price": 3290,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=800&q=80",
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&q=80"
+      ],
+      "description": "Classic striped t-shirt with timeless appeal."
+    },
+    {
+      "id": "t005",
+      "name": "Embroidered Polo Shirt",
+      "slug": "embroidered-polo",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Green",
+      "price": 4290,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=800&q=80",
+        "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=800&q=80"
+      ],
+      "description": "Premium polo shirt with subtle embroidery detail."
+    },
+    {
+      "id": "t006",
+      "name": "Quarter Zip-Up Polo Shirt",
+      "slug": "quarter-zip-polo",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Beige",
+      "price": 4590,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80",
+        "https://images.unsplash.com/photo-1598032895397-b9c644f5e1e9?w=800&q=80"
+      ],
+      "description": "Modern quarter zip polo for versatile styling."
+    },
+    {
+      "id": "t007",
+      "name": "Textured T-Shirt",
+      "slug": "textured-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Grey",
+      "price": 3190,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=800&q=80",
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80"
+      ],
+      "description": "Textured fabric t-shirt with modern appeal."
+    },
+    {
+      "id": "t008",
+      "name": "Basic Tank Top",
+      "slug": "basic-tank-top",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "White",
+      "price": 2490,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80",
+        "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80"
+      ],
+      "description": "Essential tank top for layering or solo wear."
+    },
+    {
+      "id": "t009",
+      "name": "Raglan Sleeves T-Shirt",
+      "slug": "raglan-sleeves-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Navy/White",
+      "price": 3390,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&q=80",
+        "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=800&q=80"
+      ],
+      "description": "Classic raglan sleeve design with contrast colors."
+    },
+    {
+      "id": "t010",
+      "name": "V-Neck T-Shirt",
+      "slug": "vneck-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Black",
+      "price": 2890,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80",
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80"
+      ],
+      "description": "Classic v-neck t-shirt for versatile styling."
+    },
+    {
+      "id": "t011",
+      "name": "Henley T-Shirt",
+      "slug": "henley-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Olive",
+      "price": 3590,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1598032895397-b9c644f5e1e9?w=800&q=80",
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80"
+      ],
+      "description": "Casual henley style with button placket detail."
+    },
+    {
+      "id": "t012",
+      "name": "Pocket T-Shirt",
+      "slug": "pocket-tshirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Burgundy",
+      "price": 3090,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=800&q=80",
+        "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=800&q=80"
+      ],
+      "description": "Classic t-shirt with chest pocket detail."
+    }
+  ],
+  "shirts": [
+    {
+      "id": "sh001",
+      "name": "Resort Collar Striped Shirt",
+      "slug": "resort-collar-striped-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Blue",
+      "price": 5990,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=80",
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&q=80"
+      ],
+      "description": "Relaxed resort collar shirt with classic stripes."
+    },
+    {
+      "id": "sh002",
+      "name": "Checkered Shirt",
+      "slug": "checkered-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Multi",
+      "price": 5490,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=800&q=80",
+        "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800&q=80"
+      ],
+      "description": "Classic checkered pattern shirt for casual wear."
+    },
+    {
+      "id": "sh003",
+      "name": "Basic Shirt",
+      "slug": "basic-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "White",
+      "price": 4790,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800&q=80",
+        "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=800&q=80"
+      ],
+      "description": "Essential white shirt for every wardrobe."
+    },
+    {
+      "id": "sh004",
+      "name": "Textured Shirt",
+      "slug": "textured-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Olive",
+      "price": 5290,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603252109360-909baaf261c7?w=800&q=80",
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&q=80"
+      ],
+      "description": "Textured fabric shirt with modern appeal."
+    },
+    {
+      "id": "sh005",
+      "name": "Denim Shirt",
+      "slug": "denim-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Blue",
+      "price": 5790,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&q=80",
+        "https://images.unsplash.com/photo-1603252109360-909baaf261c7?w=800&q=80"
+      ],
+      "description": "Classic denim shirt for versatile styling."
+    },
+    {
+      "id": "sh006",
+      "name": "Linen Shirt",
+      "slug": "linen-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Beige",
+      "price": 6290,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=800&q=80",
+        "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800&q=80"
+      ],
+      "description": "Breathable linen shirt perfect for summer."
+    },
+    {
+      "id": "sh007",
+      "name": "Oxford Shirt",
+      "slug": "oxford-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Light Blue",
+      "price": 5590,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&q=80",
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=80"
+      ],
+      "description": "Classic oxford weave shirt for formal occasions."
+    },
+    {
+      "id": "sh008",
+      "name": "Flannel Shirt",
+      "slug": "flannel-shirt",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "Red/Black",
+      "price": 5890,
+      "currency": "PKR",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800&q=80",
+        "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=800&q=80"
+      ],
+      "description": "Warm flannel shirt with classic plaid pattern."
+    }
+  ],
+  "fragrances": [
+    {
+      "id": "fr001",
+      "name": "Mercury",
+      "slug": "mercury-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80"
+      ],
+      "description": "Fresh and invigorating fragrance for the modern man."
+    },
+    {
+      "id": "fr002",
+      "name": "Noon Cocktail",
+      "slug": "noon-cocktail-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=80",
+        "https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=800&q=80"
+      ],
+      "description": "Vibrant and energetic scent perfect for daytime wear."
+    },
+    {
+      "id": "fr003",
+      "name": "Hombre",
+      "slug": "hombre-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=800&q=80",
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80"
+      ],
+      "description": "Bold and masculine fragrance with woody notes."
+    },
+    {
+      "id": "fr004",
+      "name": "Aqua Essence",
+      "slug": "aqua-essence-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80",
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=80"
+      ],
+      "description": "Refreshing aquatic fragrance for all-day freshness."
+    },
+    {
+      "id": "fr005",
+      "name": "Intrepid",
+      "slug": "intrepid-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=800&q=80",
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=80"
+      ],
+      "description": "Adventurous scent with spicy and citrus notes."
+    },
+    {
+      "id": "fr006",
+      "name": "Garden Noir",
+      "slug": "garden-noir-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80",
+        "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=800&q=80"
+      ],
+      "description": "Dark and mysterious fragrance with floral undertones."
+    },
+    {
+      "id": "fr007",
+      "name": "Urban Legend",
+      "slug": "urban-legend-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 3990,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=800&q=80",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80"
+      ],
+      "description": "Modern urban fragrance with sophisticated notes."
+    },
+    {
+      "id": "fr008",
+      "name": "Midnight Oud",
+      "slug": "midnight-oud-fragrance",
+      "category": "Men",
+      "brand": "Outfitters",
+      "color": "N/A",
+      "price": 4490,
+      "currency": "PKR",
+      "sizes": [
+        "100ml"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=80",
+        "https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=800&q=80"
+      ],
+      "description": "Rich oud fragrance perfect for evening wear."
+    }
+  ],
+  "banners": {
+    "denim": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=1920&q=80",
+    "footwear": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1920&q=80",
+    "tshirts": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1920&q=80",
+    "shirts": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=1920&q=80",
+    "fragrances": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=1920&q=80"
+  },
+  "videos": [
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/tn_50542775-c46c-42a1-ad9b-efb977fdad8f.mp4?v=1770873566",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_47840d13-7bc1-45da-8bb6-36845930fd04.mp4?v=1768200384",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_6511ba71-b094-45a1-8aad-d4d727a19316.mp4?v=1767784032",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_85d620d0-a5cb-4fca-bd24-e73b8dc29bb0.mp4?v=1767782521",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_06e4b996-2df2-4046-aa22-3153380e3edc.mp4?v=1765529594",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_3f79a3ef-8dcd-4c2b-89fb-9a870029e193.mp4?v=1765529594",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_f61f2fbd-c413-4151-bd27-b2d8f28e428b.mp4?v=1763182432",
+    "https://cdn.shopify.com/s/files/1/2290/7887/files/whatmore_tn_a1a80193-8636-4faf-b17e-23a44b7ebc46.mp4?v=1763182433"
   ]
 }
