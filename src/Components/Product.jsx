@@ -1,16 +1,29 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import Mens from "../assets/MEN.json";
+import Womens from "../assets/WOMEN.json";
+import Juniors from "../assets/JUNIORS.json";
 import { SlBasket } from "react-icons/sl";
 
 const Product = () => {
   const { slug } = useParams();
-  const product =
-    Mens.DenimJeans.find((j) => j.slug === slug) ||
-    Mens.footwear.find((j) => j.slug === slug) ||
-    Mens.tshirts.find((j) => j.slug === slug) ||
-    Mens.shirts.find((j) => j.slug === slug) ||
-    Mens.fragrances.find((j) => j.slug === slug);
+
+  const getAllProducts = () => {
+    const categories = [Mens, Womens, Juniors];
+    const types = ["DenimJeans", "footwear", "tshirts", "shirts", "fragrances"];
+    let products = [];
+
+    categories.forEach(cat => {
+      types.forEach(type => {
+        if (cat[type]) {
+          products = [...products, ...cat[type]];
+        }
+      });
+    });
+    return products;
+  };
+
+  const product = getAllProducts().find((p) => p.slug === slug);
   const [selectedSize, setSelectedSize] = useState(null);
   const [mainImage, setMainImage] = useState(product?.images?.[0]);
 

@@ -1,6 +1,8 @@
 import React, { useState, useMemo, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import Mens from "../assets/MEN.json";
+import Womens from "../assets/WOMEN.json";
+import Juniors from "../assets/JUNIORS.json";
 import { SlBasket } from "react-icons/sl";
 import { useNavigate } from "react-router-dom";
 
@@ -21,6 +23,18 @@ const Collections = () => {
     "men-tshirts-polos": { data: Mens.tshirts, title: "MEN T-SHIRTS & POLOS COLLECTION", filters: ["ALL", "BASIC", "GRAPHIC", "SLOGAN", "POLO", "STRIPED", "V-NECK", "HENLEY"] },
     "men-shirts": { data: Mens.shirts, title: "MEN SHIRTS COLLECTION", filters: ["ALL", "CASUAL", "FORMAL", "CHECKERED", "STRIPED", "DENIM", "LINEN", "OXFORD", "FLANNEL"] },
     "men-fragrances": { data: Mens.fragrances, title: "MEN FRAGRANCES COLLECTION", filters: ["ALL", "FRESH", "WOODY", "AQUATIC", "SPICY", "FLORAL"] },
+
+    "women-denim": { data: Womens.DenimJeans, title: "WOMEN DENIM COLLECTION", filters: ["ALL", "MOM JEANS", "SKINNY", "FLARED", "BOYFRIEND", "STRAIGHT", "WIDE LEG"] },
+    "women-footwear": { data: Womens.footwear, title: "WOMEN FOOTWEAR COLLECTION", filters: ["ALL", "SNEAKERS", "BOOTS", "HEELS", "LOAFERS", "SANDALS", "RUNNING"] },
+    "women-tshirts-polos": { data: Womens.tshirts, title: "WOMEN T-SHIRTS COLLECTION", filters: ["ALL", "GRAPHIC", "CROP TOP", "V-NECK", "STRIPED", "RIBBED", "TANK"] },
+    "women-shirts": { data: Womens.shirts, title: "WOMEN SHIRTS COLLECTION", filters: ["ALL", "SILK", "LINEN", "FLORAL", "DENIM", "CROPPED", "SATIN"] },
+    "women-fragrances": { data: Womens.fragrances, title: "WOMEN FRAGRANCES COLLECTION", filters: ["ALL", "FLORAL", "ROSE", "VANILLA", "OCEAN", "CITRUS", "JASMINE"] },
+
+    "juniors-denim": { data: Juniors.DenimJeans, title: "JUNIORS DENIM COLLECTION", filters: ["ALL", "COMFORT", "ADJUSTABLE", "JOGGER", "EMBROIDERED", "DUNGAREES"] },
+    "juniors-footwear": { data: Juniors.footwear, title: "JUNIORS FOOTWEAR COLLECTION", filters: ["ALL", "VELCRO", "LIGHT-UP", "SLIP-ONS", "SANDALS", "BOOTS"] },
+    "juniors-tshirts-polos": { data: Juniors.tshirts, title: "JUNIORS T-SHIRTS COLLECTION", filters: ["ALL", "DINOSAUR", "POLO", "SUPERHERO", "CREW NECK", "SEQUIN"] },
+    "juniors-shirts": { data: Juniors.shirts, title: "JUNIORS SHIRTS COLLECTION", filters: ["ALL", "FLANNEL", "DENIM", "OXFORD", "TROPICAL"] },
+    "juniors-fragrances": { data: Juniors.fragrances, title: "JUNIORS FRAGRANCES COLLECTION", filters: ["ALL", "FRESH", "BERRY"] },
   };
 
   const currentCategory = categoryMap[category] || categoryMap["men-denim"];
