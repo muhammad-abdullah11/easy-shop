@@ -11,16 +11,11 @@ import { SiAboutdotme } from "react-icons/si";
 
 const pages = [
   { name: "Home", path: "/", icon: <IoMdHome /> },
-  { name: "Products", path: "/products", icon: <AiOutlineProduct /> },
-  { name: "Contact", path: "/contact-us", icon: <IoMdContact /> },
-  { name: "About", path: "/about-us", icon: <SiAboutdotme /> },
-  { name: "Blogs", path: "/blogs", icon: <SiAboutdotme /> },
 ];
 
 const Header = () => {
   const navigate = useNavigate();
   const [menuOpen, setMenuOpen] = useState(false);
-  const [tab,setTab] = useState("Home");
   const [search, setSearch] = useState("");
 
   const handleSearch = (e) => {
@@ -73,33 +68,19 @@ const Header = () => {
             </span>
           </button>
 
-          <button
-            onClick={toggleMenu}
-            className="md:hidden text-3xl text-gray-700"
-          >
-            {menuOpen ? <RxCross2 /> : <IoReorderThree />}
-          </button>
         </div>
       </div>
 
-      <nav className="hidden md:flex items-center justify-center gap-8 py-3 bg-gray-50">
-        {pages.map((page) => (
-          <div className="flex items-center justify-center group hover:bg-gray-200 px-2 rounded-2xl">
-            <span className="text-2xl hidden group-hover:flex transition-all duration-200">{page.icon}</span>
-          <Link
-            onClick={()=>setTab(page.name)}
-            key={page.name}
-            to={page.path}
-            className={`font-medium text-black px-5 py-2 rounded-full transition-all duration-200 ${tab==page.name ?"bg-[#0d3b66] text-white":""}`}
-            >
-            {page.name}
-          </Link>
-            </div>
-        ))}
-      </nav>
+      <nav className="flex items-center gap-8 py-3 bg-gray-50">
+          <button
+            onClick={toggleMenu}
+            className="px-8 text-start text-3xl text-gray-700"
+          >
+            {menuOpen ? <RxCross2 /> : <IoReorderThree />}
+          </button>
 
       {menuOpen && (
-        <div className="fixed inset-0 bg-black/40 z-40 md:hidden">
+        <div className="fixed inset-0 bg-black/40 z-40">
           <div className="absolute top-0 left-0 w-3/4 max-w-xs h-full bg-white shadow-lg p-6 flex flex-col gap-6">
             
             <div className="flex justify-between items-center">
@@ -129,6 +110,8 @@ const Header = () => {
           </div>
         </div>
       )}
+
+       </nav>
     </header>
   );
 };
