@@ -4,7 +4,6 @@ import Footer from "./Components/Footer"
 import HomePage from './Components/Pages/HomePage'
 import Collections from './Components/Collections'
 import Product from "./Components/Product";
-
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 function App() {
@@ -13,12 +12,13 @@ function App() {
     <Router>
       <Header />
       <Routes>
-
         <Route path='/' element={<HomePage />} />
+        <Route path='/men' element={<HomePage initialCategory="MEN" />} />
+        <Route path='/women' element={<HomePage initialCategory="WOMEN" />} />
+        <Route path='/juniors' element={<HomePage initialCategory="JUNIORS" />} />
         <Route path='/collections' element={<Collections />} />
         <Route path='/collections/:category' element={<Collections />} />
         <Route path='/product/:slug' element={<Product />} />
-
       </Routes>
       <Footer />
     </Router>
