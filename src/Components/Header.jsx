@@ -116,6 +116,23 @@ const Header = () => {
       promotions: [
         { image: "https://outfitters.com.pk/cdn/shop/files/menu_tile_jpg.jpg?v=1770118365&width=533", title: "Kids Collection" }
       ]
+    },
+    TRAVEL: {
+      links: [
+        {
+          title: "DISCOVER",
+          items: [
+            { label: "VIEW ALL", path: "/travel-mode" },
+            { label: "DESTINATIONS", path: "/travel-mode" },
+            { label: "CITY GUIDES", path: "/travel-mode" },
+            { label: "EDITORIAL", path: "/travel-mode" },
+          ]
+        }
+      ],
+      promotions: [
+        { image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&q=80", title: "Travel Guides" },
+        { image: "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?w=800&q=80", title: "Experiences" }
+      ]
     }
   };
 

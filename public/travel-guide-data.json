@@ -1,0 +1,261 @@
+{
+    "FRA": {
+        "hero": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1920&q=80",
+        "title": "PARIS EXCLUSIVE",
+        "tagline": "The City of Lights & Luxury",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Le Jules Verne",
+                "description": "Perched on the second floor of the Eiffel Tower, this Michelin-starred gem offers breathtaking views of Paris paired with contemporary French cuisine. It's not just a meal; it's an ascent into culinary excellence.",
+                "image": "https://images.unsplash.com/photo-1550966871-3ed3c47e2ce2?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "Musée d'Orsay",
+                "description": "Housed in a grand Beaux-Arts railway station, this museum holds the world's largest collection of Impressionist and post-Impressionist masterpieces. Walk among the works of Van Gogh, Monet, and Renoir under the magnificent glass roof.",
+                "image": "https://images.unsplash.com/photo-1574320956488-75c13b2909f2?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Hôtel Plaza Athénée",
+                "description": "Located on the prestigious Avenue Montaigne, this hotel is the epitome of Parisian haute couture. With its iconic red geraniums and views of the Eiffel Tower, it promises a stay of unparalleled luxury.",
+                "image": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=800&q=80"
+            },
+            {
+                "type": "SHOP",
+                "title": "Galeries Lafayette",
+                "description": "More than just a department store, it's an architectural wonder. Shop for the latest fashion trends under the stunning stained-glass dome that has captivated visitors for over a century.",
+                "image": "https://images.unsplash.com/photo-1550340499-a6c6088e6b0a?w=800&q=80"
+            },
+            {
+                "type": "HIDDEN GEM",
+                "title": "Canal Saint-Martin",
+                "description": "Escape the tourist crowds and stroll along the shady banks of this 19th-century canal. It's a favorite spot for locals to picnic, play boules, and enjoy the bohemian atmosphere.",
+                "image": "https://images.unsplash.com/photo-1520939817895-060bdaf4deb1?w=800&q=80"
+            }
+        ]
+    },
+    "JPN": {
+        "hero": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1920&q=80",
+        "title": "TOKYO TALES",
+        "tagline": "Tradition Meets Future",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Omoide Yokocho",
+                "description": "Step back in time in 'Memory Lane', a narrow alleyway packed with tiny yakitori stalls, lanterns, and smoky, delicious aromas. It's a sensory overload of authentic Tokyo flavors.",
+                "image": "https://images.unsplash.com/photo-1559968461-12bf67e0766d?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "Kyoto's Temples",
+                "description": "Just a bullet train ride away, experience the serene beauty of Kinkaku-ji (Golden Pavilion) reflecting over the pond. A moment of Zen amidst the bustle of modern life.",
+                "image": "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Aman Tokyo",
+                "description": "Occupying the top six floors of the Otemachi Tower, Aman Tokyo offers a sanctuary high above the city. The design blends traditional Japanese ryokan elements with modern luxury.",
+                "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?w=800&q=80"
+            },
+            {
+                "type": "SHOP",
+                "title": "Ginza District",
+                "description": "Tokyo's premier shopping district, featuring upscale department stores, boutiques, and restaurants. On weekends, the main street becomes a pedestrian paradise.",
+                "image": "https://images.unsplash.com/photo-1570183184656-11b06655c654?w=800&q=80"
+            },
+            {
+                "type": "NATURE",
+                "title": "Mount Fuji",
+                "description": "Japan's highest peak and an iconic symbol of the country. Whether viewing it from a distance or climbing its slopes, its majestic presence is undeniable.",
+                "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80"
+            }
+        ]
+    },
+    "ITA": {
+        "hero": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=1920&q=80",
+        "title": "ROMAN HOLIDAY",
+        "tagline": "Eternal Beauty",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Trastevere Treats",
+                "description": "Wander the ivy-clad streets to find authentic Roman pasta dishes like Cacio e Pepe in centuries-old trattorias. The atmosphere is as delicious as the food.",
+                "image": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "The Pantheon",
+                "description": "The best-preserved building from ancient Rome, its unreinforced concrete dome is a marvel of engineering that still inspires awe today. Stand beneath the oculus and feel the history.",
+                "image": "https://images.unsplash.com/photo-1555992828-ca4dbe41d294?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Hotel de Russie",
+                "description": "Located between the Spanish Steps and Piazza del Popolo, this hotel features a stunning terraced garden, a rare oasis of green in the heart of Rome.",
+                "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80"
+            },
+            {
+                "type": "ART",
+                "title": "Vatican Museums",
+                "description": "Home to an immense collection of art amassed by the Catholic Church, including the Sistine Chapel ceiling painted by Michelangelo. A pilgrimage for art lovers.",
+                "image": "https://images.unsplash.com/photo-1541544181051-447a06c5270c?w=800&q=80"
+            },
+            {
+                "type": "HIDDEN GEM",
+                "title": "Villa Borghese",
+                "description": "Rome's third-largest public park is home to galleries, a zoo, and a replica of Shakespeare's Globe Theatre. Rent a bike and explore the gardens.",
+                "image": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800&q=80"
+            }
+        ]
+    },
+    "ESP": {
+        "hero": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?w=1920&q=80",
+        "title": "VIBRANT SPAIN",
+        "tagline": "Passion in Every Corner",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Tapas in Seville",
+                "description": "Experience the vibrant social dining culture of Andalusia moving from bar to bar tasting local specialties like Iberian ham and salmorejo.",
+                "image": "https://images.unsplash.com/photo-1515443961218-a51367888e4b?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "La Sagrada Familia",
+                "description": "Gaudí's unfinished masterpiece in Barcelona combines Gothic and Art Nouveau forms in a fluid, dreamlike structure that is unlike anything else on Earth.",
+                "image": "https://images.unsplash.com/photo-1548685913-fe6dd82d6d09?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Parador de Ronda",
+                "description": "Stay in a converted former town hall located on the edge of the spectacular El Tajo gorge in Ronda. The views from the terrace are dizzying and unforgettable.",
+                "image": "https://images.unsplash.com/photo-1561580221-3965f7c3558c?w=800&q=80"
+            },
+            {
+                "type": "CULTURE",
+                "title": "Flamenco in Granada",
+                "description": "Watch a passionate Flamenco performance in the caves of Sacromonte, the traditional gypsy quarter of Granada.",
+                "image": "https://images.unsplash.com/photo-1507676646738-42233f811568?w=800&q=80"
+            },
+            {
+                "type": "COASTAL",
+                "title": "Costa Brava",
+                "description": "Explore the rugged coast of northeastern Spain, dotted with hidden coves, crystal-clear waters, and charming medieval villages.",
+                "image": "https://images.unsplash.com/photo-1512411516223-a15d0cc15814?w=800&q=80"
+            }
+        ]
+    },
+    "MEX": {
+        "hero": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=1920&q=80",
+        "title": "MAGIC MEXICO",
+        "tagline": "Ancient Ruins & Azure Seas",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Street Tacos",
+                "description": "The heart of Mexican cuisine lies in its street food. Fresh corn tortillas, spit-roasted pork (al pastor), and spicy salsas are a must-try.",
+                "image": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "Cenotes of Tulum",
+                "description": "Swim in the magical natural sinkholes filled with fresh groundwater, sacred to the ancient Mayans. A refreshing dip in a jungle paradise.",
+                "image": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Azulik Tulum",
+                "description": "An eco-resort that reconnects you with nature. Treehouse villas with no electric light offer a candlelit, magical escape from the modern world.",
+                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+            },
+            {
+                "type": "CULTURE",
+                "title": "Day of the Dead",
+                "description": "If visiting in early November, witness the vibrant Dia de los Muertos celebrations, a colorful and joyous honoring of ancestors.",
+                "image": "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=800&q=80"
+            },
+            {
+                "type": "NATURE",
+                "title": "Hierve el Agua",
+                "description": "Marvel at the petrified waterfalls and swim in the natural infinity pools overlooking the valley of Oaxaca.",
+                "image": "https://images.unsplash.com/photo-1518182170546-0766ce6fec93?w=800&q=80"
+            }
+        ]
+    },
+    "BRA": {
+        "hero": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=1920&q=80",
+        "title": "BEAUTIFUL BRAZIL",
+        "tagline": "Rhythm of the Soul",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Feijoada",
+                "description": "A hearty stew of black beans and pork, typically served with rice, classic Brazilian soul food. Best enjoyed on a lazy Saturday afternoon.",
+                "image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "Christ the Redeemer",
+                "description": "Overlooking Rio de Janeiro, this Art Deco statue offers panoramic views of the city and Sugarloaf Mountain. An icon of faith and welcome.",
+                "image": "https://images.unsplash.com/photo-1593995863951-57cdd92d3781?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Copacabana Palace",
+                "description": "A symbol of Rio's golden age, this hotel has hosted royalty and stars for nearly a century. Stay here for old-world glamour right on the famous beach.",
+                "image": "https://images.unsplash.com/photo-1583255120619-335198df4df0?w=800&q=80"
+            },
+            {
+                "type": "NATURE",
+                "title": "Amazon Rainforest",
+                "description": "Embark on an expedition into the world's largest tropical rainforest. Discover incredible biodiversity and indigenous cultures along the Amazon River.",
+                "image": "https://images.unsplash.com/photo-1516934024742-b461fba47600?w=800&q=80"
+            },
+            {
+                "type": "PARTY",
+                "title": "Rio Carnival",
+                "description": "Experience the world's biggest party. Samba schools parade through the Sambadrome in dazzling costumes, creating an spectacle of color and rhythm.",
+                "image": "https://images.unsplash.com/photo-1568402102919-494692789bd0?w=800&q=80"
+            }
+        ]
+    },
+    "AUT": {
+        "hero": "https://images.unsplash.com/photo-1516550893023-fa5c331d615f?w=1920&q=80",
+        "title": "IMPERIAL AUSTRIA",
+        "tagline": "Music & Mountains",
+        "sections": [
+            {
+                "type": "EAT & DRINK",
+                "title": "Viennese Coffee House",
+                "description": "Spending hours reading newspapers and sipping Melange is a traditional pastime in Vienna. It's not just coffee; it's a culture.",
+                "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=800&q=80"
+            },
+            {
+                "type": "VISIT",
+                "title": "Hallstatt",
+                "description": "A fairytale village on a lake, surrounded by towering mountains and rich historical salt mines. It's picture-perfect in every season.",
+                "image": "https://images.unsplash.com/photo-1506422748879-887454f9cdff?w=800&q=80"
+            },
+            {
+                "type": "STAY",
+                "title": "Hotel Sacher",
+                "description": "Home of the famous Sacher Torte, this hotel offers imperial luxury. Located opposite the Vienna State Opera, it's steeped in history.",
+                "image": "https://images.unsplash.com/photo-1627662241680-e37456d9585e?w=800&q=80"
+            },
+            {
+                "type": "ART",
+                "title": "Belvedere Palace",
+                "description": "A historic building complex consisting of two Baroque palaces. It houses the greatest collection of Austrian art, including Klimt's 'The Kiss'.",
+                "image": "https://images.unsplash.com/photo-1600615951884-6385d30ddb9e?w=800&q=80"
+            },
+            {
+                "type": "NATURE",
+                "title": "The Tyrol Alps",
+                "description": "A paradise for hikers in summer and skiers in winter. The dramatic mountain scenery and charming alpine huts are unforgettable.",
+                "image": "https://images.unsplash.com/photo-1483015483002-8664fd3769c3?w=800&q=80"
+            }
+        ]
+    }
+}
